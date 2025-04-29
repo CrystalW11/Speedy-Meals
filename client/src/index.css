@@ -1,0 +1,53 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+  color-scheme: light dark;
+  color: black(255, 255, 255, 0.87);
+  background-color: white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: white;
+  color: rebeccapurple;
+}
+
+h2{
+  font-size: 50px;
+  font-weight: 20px;
+}
+
+p {
+  font-size: 25px;
+}
+
+h1 {
+  color: black;
+  font-size: 65px;
+}
+
+.transparent-input {
+  background-color: transparent;
+  /* Makes the background transparent */
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  /* Semi-transparent border */
+  color: white;
+  /* Text color to contrast against the background */
+  padding: 0.5rem;
+  /* Adjust padding if necessary */
+  font-size: 1rem;
+  /* Adjust font size if necessary */
+}
+
+.transparent-input:focus {
+  outline: none;
+  /* Remove the default outline on focus */
+  border-color: rgba(255, 255, 255, 1);
+  /* Full opacity on focus */
+}
