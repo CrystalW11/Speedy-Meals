@@ -16,13 +16,8 @@ Speedy Meals is a full-stack web application designed to help users discover and
 
 - API Requests: Axios
 
-**State Management: React Context API​**
-- GeeksforGeeks
-+2
-- YouTube
-+2
-- GeeksforGeeks
-+2
+- State Management: React Context API​
+
 
 🚀 **Features**
 
