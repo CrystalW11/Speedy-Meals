@@ -29,7 +29,7 @@ Speedy Meals is a full-stack web application designed to help users discover and
 
 - Responsive Design: Optimized for both desktop and mobile devices.
 
--CRUD Operations: Create, Read, Update, and Delete functionalities for recipes.​
+- CRUD Operations: Create, Read, Update, and Delete functionalities for recipes.​
 GeeksforGeeks
 
 
