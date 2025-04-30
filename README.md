@@ -75,20 +75,8 @@ JWT_SECRET=your_jwt_secret
 The application will be accessible at http://localhost:3000.
 
 Project structure is here. 
-Speedy-Meals/
-├── client/                # React frontend
-│   ├── src/
-│   │   ├── components/    # Reusable components
-│   │   ├── context/       # React Context API for state management
-│   │   └── App.js         # Main React component
-│   └── package.json       # Frontend dependencies
-├── server/                # Node.js backend
-│   ├── controllers/       # Route handlers
-│   ├── models/            # MySQL models
-│   ├── routes/            # API routes
-│   ├── .env               # Environment variables
-│   └── server.js          # Entry point for the server
-└── README.md              # Project documentation
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/174bd833-d154-41e3-8c76-b93a9b10d9a0" />
+
 
 🧪 Testing
 Unit and integration tests are located in the tests directory. To run the tests:
