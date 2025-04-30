@@ -1,48 +1,49 @@
 # Speedy-Meals 
 
-Speedy Meals
-🍽️ Overview
+🍽️ **Overview**
 Speedy Meals is a full-stack web application designed to help users discover and share quick, delicious meal recipes. Built with the MERN stack and MySQL, it offers a seamless experience for browsing, adding, and managing recipes.​
 
-🔧 Technologies Used
-Frontend: React.js
+🔧 **Technologies Used**
+- Frontend: React.js
 
-Backend: Node.js with Express
+- Backend: Node.js with Express
 
-Database: MySQL
+- Database: MySQL
 
-Authentication: JWT (JSON Web Tokens)
+- Authentication: JWT (JSON Web Tokens)
 
-Styling: Bootstrap
+- Styling: Bootstrap
 
-API Requests: Axios
+- API Requests: Axios
 
-State Management: React Context API​
-GeeksforGeeks
+**State Management: React Context API​**
+- GeeksforGeeks
 +2
-YouTube
+- YouTube
 +2
-GeeksforGeeks
+- GeeksforGeeks
 +2
 
-🚀 Features
-User Authentication: Secure login and registration with JWT.
+🚀 **Features**
 
-Recipe Management: Users can add, edit, and delete their own recipes.
+- User Authentication: Secure login and registration with JWT.
 
-Recipe Browsing: Explore a variety of recipes shared by other users.
+- Recipe Management: Users can add, edit, and delete their own recipes.
 
-Responsive Design: Optimized for both desktop and mobile devices.
+- Recipe Browsing: Explore a variety of recipes shared by other users.
 
-CRUD Operations: Create, Read, Update, and Delete functionalities for recipes.​
-GeeksforGeeks
+- Responsive Design: Optimized for both desktop and mobile devices.
+
+**CRUD Operations: Create, Read, Update, and Delete functionalities for recipes.​
+GeeksforGeeks**
+- +8
+- GitHub
 +8
-GitHub
-+8
-YouTube
-+8
+- YouTube
+- +8
 
-🛠️ Installation & Setup
+🛠️ **Installation & Setup**
+
 1. Clone the Repository
 
   `git clone https://github.com/CrystalW11/Speedy-Meals.git`
