@@ -84,7 +84,7 @@ The application will be accessible at http://localhost:3000.
 
 **Project structure is here**
 
-    <img width="395" alt="image" src="https://github.com/user-attachments/assets/174bd833-d154-41e3-8c76-b93a9b10d9a0" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/174bd833-d154-41e3-8c76-b93a9b10d9a0" />
 
 # 
 
