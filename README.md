@@ -1,7 +1,10 @@
 # Speedy-Meals 
 
 🍽️ **Overview**
+
 Speedy Meals is a full-stack web application designed to help users discover and share quick, delicious meal recipes. Built with the MERN stack and MySQL, it offers a seamless experience for browsing, adding, and managing recipes.​
+
+# 
 
 🔧 **Technologies Used**
 - Frontend: React.js
@@ -18,6 +21,7 @@ Speedy Meals is a full-stack web application designed to help users discover and
 
 - State Management: React Context API​
 
+# 
 
 🚀 **Features**
 
@@ -32,6 +36,7 @@ Speedy Meals is a full-stack web application designed to help users discover and
 - CRUD Operations: Create, Read, Update, and Delete functionalities for recipes.​
 GeeksforGeeks
 
+#
 
 🛠️ **Installation & Setup**
 
@@ -71,12 +76,16 @@ JWT_SECRET=your_jwt_secret
    **Frontend**
    `cd client`
    `npm start`
+#
 
 The application will be accessible at http://localhost:3000.
+
+# 
 
 Project structure is here. 
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/174bd833-d154-41e3-8c76-b93a9b10d9a0" />
 
+# 
 
 🧪 Testing
 Unit and integration tests are located in the tests directory. To run the tests:
@@ -84,5 +93,8 @@ Unit and integration tests are located in the tests directory. To run the tests:
     `npm test`
 
 
+
+# 
+**Preview**
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/577b42db-2208-4515-ad4e-9759eb6192b2" />
