@@ -37,8 +37,64 @@ GeeksforGeeks
 
 1. Clone the Repository
 
-  `git clone https://github.com/CrystalW11/Speedy-Meals.git`
-  `cd Speedy-Meals`
-  
+    `git clone https://github.com/CrystalW11/Speedy-Meals.git`
+    `cd Speedy-Meals`
+2. Install Dependencies
+**Backend**
+
+    `cd server`
+    `npm install`
+
+**Frontend**
+
+    `cd client`
+    npm install`
+
+3. Configure Environment Variables
+    Create a `.env` file in the `server` directory with the following content:
+      `DB_HOST=localhost`
+      `DB_USER=root`
+      `DB_PASSWORD=yourpassword`
+      `DB_NAME=speedy_meals`
+      `JWT_SECRET=your_jwt_secret
+   
+JWT_SECRET=your_jwt_secret
+DB_NAME=speedy_meals
+JWT_SECRET=your_jwt_secret
+
+4. Run the Application 
+    **Backend**
+
+    `cd server`
+    `npm start`
+
+   **Frontend**
+   `cd client`
+   `npm start`
+
+The application will be accessible at http://localhost:3000.
+
+Project structure is here. 
+Speedy-Meals/
+├── client/                # React frontend
+│   ├── src/
+│   │   ├── components/    # Reusable components
+│   │   ├── context/       # React Context API for state management
+│   │   └── App.js         # Main React component
+│   └── package.json       # Frontend dependencies
+├── server/                # Node.js backend
+│   ├── controllers/       # Route handlers
+│   ├── models/            # MySQL models
+│   ├── routes/            # API routes
+│   ├── .env               # Environment variables
+│   └── server.js          # Entry point for the server
+└── README.md              # Project documentation
+
+🧪 Testing
+Unit and integration tests are located in the tests directory. To run the tests:
+
+    `npm test`
+
+
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/577b42db-2208-4515-ad4e-9759eb6192b2" />
